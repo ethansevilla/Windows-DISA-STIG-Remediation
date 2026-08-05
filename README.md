@@ -1,2 +1,18 @@
 # Windows-DISA-STIG-Remediation
-Windows security hardening using DISA STIGs and PowerShell automation with Tenable compliance scanning.
+
+This repository contains PowerShell remediation scripts developed while completing the Josh Madakor Cyber Range Internship.
+
+Each script remediates a Windows DISA Security Technical Implementation Guide (STIG) finding identified during a Tenable compliance scan.
+
+## Technologies
+
+- Windows 11
+- PowerShell
+- Tenable Nessus
+- DISA STIGs
+
+## Repository Structure
+
+```
+STIGS/
+```
