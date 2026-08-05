@@ -1,4 +1,4 @@
-# Windows-DISA-STIG-Remediation
+# Windows-DISA-STIGs-Remediation
 
 This repository contains PowerShell remediation scripts developed while completing the Josh Madakor Cyber Range Internship.
 
